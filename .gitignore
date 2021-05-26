@@ -1,0 +1,14 @@
+# C# Compile
+obj/
+bin/
+
+# IDE 
+.vscode/
+.vs/
+*.csproj.user
+
+# JavaScript Compile
+.yarn/
+dist/
+node_modules/
+coverage/
